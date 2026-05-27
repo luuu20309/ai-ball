@@ -25,7 +25,7 @@ const cfgUrl = document.getElementById('cfg-url');
 const cfgKey = document.getElementById('cfg-key');
 const cfgModel = document.getElementById('cfg-model');
 
-const BALL_SIZE = 150;
+const BALL_SIZE = 200;
 const PANEL_WIDTH = 440;
 const PANEL_HEIGHT = 620;
 
